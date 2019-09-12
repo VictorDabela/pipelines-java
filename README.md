@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/VictorDabela/pipelines-demo/_apis/build/status/VictorDabela.pipelines-java?branchName=master)](https://dev.azure.com/VictorDabela/pipelines-demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
